@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cloud_user/faisal/experiments/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/bed72afe37a84de4b1ad5dee14ebf6b0/artifacts
+end_time: 1592282775679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bed72afe37a84de4b1ad5dee14ebf6b0
+run_uuid: bed72afe37a84de4b1ad5dee14ebf6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1592282775500
+status: 3
+tags: []
+user_id: cloud_user
